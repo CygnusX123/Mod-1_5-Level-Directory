@@ -1,10 +1,13 @@
 Readme.md
 
-This directory "Mod-1_5-Level-Directory" contains a directory named whoIam 
-and a file named "readme.md"
+Description:
 
-The path to the current directory is:
-users/student/Mod-1_5-Level-Directory
+This directory is called "Mod-1_5-Level-Directory"
 
-The path to the previous directory is:
-users/student
+It contains 5 directories with it and a file called Readme.md 
+The path to current directory: 
+users/student/Mod-1_5-Level-Directory/Who_Am_I/Something_I_Know/Where_Im_Going/
+What_Is_Important_To_Me/What_Is_Possible
+
+
+
